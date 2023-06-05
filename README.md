@@ -1,4 +1,4 @@
-<h1>"# PirateGame" </h1>
+<h3>PirateGame" </h3>
 No external libraries / Programs etc. All basic Java
 JFRAME for gameframe
 Gameloop - Optimization with FPS counter and Updates Per/Second to catch up with the frames lost, incase of FPS loss.
