@@ -1,4 +1,4 @@
-<h3>PirateGame </h3>
+<h1>PirateGame </h1>
 
 <h3>Summary what the project contains </h3>
 No external libraries / Programs etc. All basic Java. <br>
@@ -12,5 +12,22 @@ Generel Game logic and much more is what you will find in this project.<br>
 <br>
 I had a lot of fun creating it, hope You will enjoy it to the same extend I have.
 
-<h3>Video Recording of the game</h3>
+Adding a new enemy in lvl 2 and again one in lvl 3. They have different different animations. Might add more later.<br>
+
+The game gets progressively harder. However the spawning point is the level you have reached. 
+
+<h1>Video Recordings of the game</h1>
+
+<h3>Level 1 </h3>
+
+https://github.com/madsen372/PirateGame/assets/45572200/0c71443b-6795-4683-b4b2-f874f8d6e40c
+
+
+<h3>Level 2 </h3>
+
+https://github.com/madsen372/PirateGame/assets/45572200/b6dafea5-9ddb-4266-9d2d-3a825397f5bd
+
+<h3>Level 3 </h3>
+
+https://github.com/madsen372/PirateGame/assets/45572200/3ef17a1e-ef6a-46f4-8775-1430798081a4
 
